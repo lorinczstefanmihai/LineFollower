@@ -69,4 +69,4 @@ Competitive robotics experience
 
 ## Video Presentation
 
-<p align="center"> <a href="https://raw.githubusercontent.com/lorinczstefanmihai/LineFollower/main/presentation-video.mp4" target="_blank"> <img src="images/video_thumbnail.jpg" alt="Line Follower Video" width="400"> </a> </p>
+[![Watch the video] (https://raw.githubusercontent.com/lorinczstefanmihai/LineFollower/main/presentation-video.mp4)
