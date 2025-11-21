@@ -69,4 +69,4 @@ Competitive robotics experience
 
 ## Video Presentation
 
-[![Watch the video](https://raw.githubusercontent.com/lorinczstefanmihai/LineFollower/main/presentation-video.mp4)
+https://github.com/user-attachments/assets/58370985-117f-48c2-960f-9493781b345f
