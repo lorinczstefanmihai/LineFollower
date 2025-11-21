@@ -70,3 +70,8 @@ Competitive robotics experience
 ## Video Presentation
 
 https://github.com/user-attachments/assets/58370985-117f-48c2-960f-9493781b345f
+
+https://github.com/user-attachments/assets/3563ba95-f6c6-4a71-bbea-5880b89e6af1
+
+https://github.com/user-attachments/assets/2ad60a8a-7bea-4f4c-bc0b-793d28e9c65f
+
