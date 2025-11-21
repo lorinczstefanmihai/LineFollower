@@ -10,38 +10,38 @@ This project was developed as part of a university team participating in the Rob
 
 🎯 Project Goals
 
-Achieve fast and stable line tracking
+• Achieve fast and stable line tracking
 
-Prevent over-acceleration and oscillation
+• Prevent over-acceleration and oscillation
 
-Ensure consistent performance on various track layouts
+• Ensure consistent performance on various track layouts
 
-Provide real-time tuning capabilities for PID parameters
+• Provide real-time tuning capabilities for PID parameters
 
 🛠️ Technical Highlights
 Embedded Control
 
-Implemented PID control for precise motor response
+• Implemented PID control for precise motor response
 
-Worked with STM microcontrollers for real-time sensor processing
+• Worked with STM microcontrollers for real-time sensor processing
 
-Integrated IR sensors and motor drivers for accurate line detection
+• Integrated IR sensors and motor drivers for accurate line detection
 
-Software & Interface
+• Software & Interface
 
-Developed a C# desktop UI for real-time tuning
+• Developed a C# desktop UI for real-time tuning
 
-Bluetooth communication for live transmission of PID parameters
+• Bluetooth communication for live transmission of PID parameters
 
-Telemetry visualization for easier debugging and optimization
+• Telemetry visualization for easier debugging and optimization
 
-Engineering Focus
+• Engineering Focus
 
-Embedded electronics and signal handling
+• Embedded electronics and signal handling
 
-PID tuning for speed vs. stability
+• PID tuning for speed vs. stability
 
-Wireless communication and interface design
+• Wireless communication and interface design
 
 👥 Team
 
@@ -51,17 +51,17 @@ Gained experience in collaborative problem-solving under contest constraints.
 
 🚀 Skills Gained
 
-STM32 microcontroller development
+• STM32 microcontroller development
 
-PID control and tuning
+• PID control and tuning
 
-Electronics and sensor integration
+• Electronics and sensor integration
 
-C# application development
+• C# application development
 
-Bluetooth communication
+• Bluetooth communication
 
-Competitive robotics experience
+• Competitive robotics experience
 
 📸 Images
 
