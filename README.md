@@ -65,7 +65,7 @@ Competitive robotics experience
 
 📸 Images
 
-![LineFollower Image](contest.jpg)
+<img src="contest.jpg" alt="Line Follower Robot" width="300">
 
 ## Video Presentation
 
