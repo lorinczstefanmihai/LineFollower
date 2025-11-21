@@ -63,4 +63,8 @@ Competitive robotics experience
 
 📸 Images
 
-(Add images or GIFs here if available)
+![LineFollower Image](linefollower.jpg)
+
+## Video Presentation
+
+https://github.com/lorinczstefanmihai/LineFollower/blob/226dfca0154bb4ca96ce48c2c77fe9414ad959fe/presentation-video.mp4
