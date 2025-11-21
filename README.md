@@ -1,4 +1,6 @@
 # Line Follower Robot – Robochallenge 2018🏎️
+![LineFollower Image](linefollower.jpg)
+
 
 University Project | International Robotics Contest
 
@@ -63,7 +65,7 @@ Competitive robotics experience
 
 📸 Images
 
-![LineFollower Image](linefollower.jpg)
+![LineFollower Image](contest.jpg)
 
 ## Video Presentation
 
